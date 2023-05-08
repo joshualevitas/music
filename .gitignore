@@ -1,0 +1,10 @@
+.venv/
+.vscode/
+AdaBins/
+k-diffusion/
+MiDaS/
+model/
+music/
+output/
+pytorch3d-lite/
+stable-diffusion/
